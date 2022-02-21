@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Handlingsassistent</string>
+    <string name="input_text_hint">Ange en vara</string>
+    <string name="template_button_content_description">Button to template page</string>
+    <string name="shopping_list_button_content_description">Button to shopping list page</string>
+    <string name="spending_button_content_description">Button to spending page</string>
+    <string name="spending_title"> Kostnader </string>
+    <string name="alert_title">Rensa listan</string>
+    <string name="alert_message">Vill du verkligen rensa listan?</string>
+    <string name="alert_yes">Ja</string>
+    <string name="alert_no">Nej</string>
+    <string name="input_cost_hint_spending">Ange kostnad</string>
+    <string name="input_date_hint_spending">Ange datum</string>
+    <string name="input_store_hint_spending">Ange butik</string>
+
+
+</resources>
